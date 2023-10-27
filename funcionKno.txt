@@ -1,0 +1,11 @@
+DRY principle-> any statment are not copy line and execute 
+   ex-    print(hello);print(hello);print(hello);print(hello);print(hello);
+
+   so this is not good 
+    we have solution 1>> make loop 
+                    2>> make function 
+
+single 
+
+
+// we make 
